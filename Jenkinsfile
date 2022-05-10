@@ -4,7 +4,7 @@ pipeline {
 	         stage ('GIT checkout'){
 	             steps {
 	                 script  {					       
-					       git "https://github.com/sunilkumarg-techbrain/SampleSeleniumMavenJenkins"
+					       git "https://github.com/AshiSilva/JenkinNew"
 		                   } 
 		           }
 		       }
